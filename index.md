@@ -24,7 +24,7 @@ controls: false
 
 **Problem**: When configuring Node/Typescript, the node path is version-dependent
 
-**Solution** _(with NVM)_: `$ export NVM_SYMLINK_CURRENT=true` links current node version in `~/.nvm/current
+**Solution** _(with NVM)_: `$ export NVM_SYMLINK_CURRENT=true` links current node version in `~/.nvm/current`
 
 --
 ### Reproducible builds
